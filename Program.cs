@@ -8,6 +8,7 @@
 //And report it back to the console
 //Peer Review by: (enter name)
 
+//need a boolean & while loop 
 
 Console.Clear ();
 
