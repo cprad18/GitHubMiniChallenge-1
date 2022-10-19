@@ -28,6 +28,13 @@ string myWakeTime = Console.ReadLine();
 
 Console.WriteLine ("Awesome " +  myName + " you woke up at " + myWakeTime);
 
-Console.WriteLine("Would you like to play again ? by telling me your name?")
+Console.WriteLine("Would you like to play again ? by telling me your name?");
+playAgain = Console.ReadLine().ToUpper();
+
+if(playAgain == "no"){
+    Console.WriteLine("Ok, thank you for playing!");
+}else if(playAgain != "yes" && playAgain != "no"){
+        Console.WriteLine("Ok, have a great day!!");
+    } 
 }
 
