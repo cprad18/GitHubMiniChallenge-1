@@ -12,6 +12,9 @@
 
 Console.Clear ();
 
+string playAgain = "yes";
+
+while(playAgain == "yes"){
 
 Console.WriteLine ("What is your name?");
 
@@ -24,3 +27,7 @@ Console.WriteLine ("What time did you wake up?");
 string myWakeTime = Console.ReadLine();
 
 Console.WriteLine ("Awesome " +  myName + " you woke up at " + myWakeTime);
+
+Console.WriteLine("Would you like to play again ? by telling me your name?")
+}
+
