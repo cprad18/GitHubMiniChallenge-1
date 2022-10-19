@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/angelmanz/Documents/Level1/GitHubMiniChallenge#1/GitHubMiniChallenge#1.csproj": {}
+    "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\GitHubMiniChallenge-1\\GitHubMiniChallenge#1.csproj": {}
   },
   "projects": {
-    "/Users/angelmanz/Documents/Level1/GitHubMiniChallenge#1/GitHubMiniChallenge#1.csproj": {
+    "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\GitHubMiniChallenge-1\\GitHubMiniChallenge#1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/angelmanz/Documents/Level1/GitHubMiniChallenge#1/GitHubMiniChallenge#1.csproj",
+        "projectUniqueName": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\GitHubMiniChallenge-1\\GitHubMiniChallenge#1.csproj",
         "projectName": "GitHubMiniChallenge#1",
-        "projectPath": "/Users/angelmanz/Documents/Level1/GitHubMiniChallenge#1/GitHubMiniChallenge#1.csproj",
-        "packagesPath": "/Users/angelmanz/.nuget/packages/",
-        "outputPath": "/Users/angelmanz/Documents/Level1/GitHubMiniChallenge#1/obj/",
+        "projectPath": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\GitHubMiniChallenge-1\\GitHubMiniChallenge#1.csproj",
+        "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\GitHubMiniChallenge-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/angelmanz/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
