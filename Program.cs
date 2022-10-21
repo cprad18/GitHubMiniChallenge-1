@@ -2,7 +2,7 @@
 //Console.WriteLine("Hello, World!");
 
 //Christopher Prado
-//09-07-2022 2pm
+//Date Revised: 21OCT22 
 //Mini Challenge #1 "What is your name?"
 //This is a console project that will ask our user their name
 //And report it back to the console
